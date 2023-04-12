@@ -9,8 +9,8 @@ import {
   Card,
   Image,
 } from "@chakra-ui/react";
-import User from "../public/Icons/User Profile.svg";
-import Lit from "../public/Icons/lit.svg";
+import User from "../../public/Icons/User Profile.svg";
+import Lit from "../../public/Icons/lit.svg";
 import MyButton from "../Custom/NftButton";
 interface INFTCards {
   image: string;

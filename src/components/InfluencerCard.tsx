@@ -1,7 +1,7 @@
 import React from "react";
 import { Box, Text, Button, Flex, Card, Image } from "@chakra-ui/react";
 
-import Verified from "../public/Icons/verified.svg";
+import Verified from "../../public/Icons/verified.svg";
 import MyButton from "../Custom/NftButton";
 interface IINCards {
   image: string;

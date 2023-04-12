@@ -20,7 +20,7 @@ import Header from "./layout/Header";
 import Footer from "./layout/Footer";
 import "@fontsource/lato";
 import * as Yup from "yup";
-import { CustomInputForm } from "../../Custom/CustomInputGroup";
+import { CustomInputForm } from "../Custom/CustomInputGroup";
 
 interface FormData {
   fullName: string;

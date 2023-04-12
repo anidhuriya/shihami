@@ -2,7 +2,7 @@ import React from "react";
 import { Flex, Box, Text, Divider } from "@chakra-ui/react";
 import Header from "./layout/Header";
 import Footer from "./layout/Footer";
-import NextDrop from "../../components/NextDrop";
+import NextDrop from "../components/NextDrop";
 
 const PrivacyPolicy = () => {
   return (

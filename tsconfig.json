@@ -28,8 +28,8 @@
     "**/*.ts",
     "**/*.tsx",
     ".next/types/**/*.ts",
-    "components/[updateprofile]tsx",
-    "components/[updateprofile]tsx"
+    "src/components/[updateprofile]tsx",
+    "src/components/[updateprofile]tsx"
   ],
   "exclude": ["node_modules"]
 }

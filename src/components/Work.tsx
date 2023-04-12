@@ -1,9 +1,9 @@
 import React from "react";
 import { Flex, Box, Image, Heading, Text, Grid } from "@chakra-ui/react";
-import Wallet from "../public/Icons/wallet.svg";
-import Collections from "../public/Icons/collections.svg";
-import AddNfts from "../public/Icons/addNfts.svg";
-import Sale from "../public/Icons/sale.svg";
+import Wallet from "../../public/Icons/wallet.svg";
+import Collections from "../../public/Icons/collections.svg";
+import AddNfts from "../../public/Icons/addNfts.svg";
+import Sale from "../../public/Icons/sale.svg";
 
 const Work = () => {
   return (

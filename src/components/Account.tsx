@@ -1,7 +1,7 @@
 import { Button, Box } from "@chakra-ui/react";
 import Link from "next/link";
 
-import User from "../public/Icons/User Profile.svg";
+import User from "../../public/Icons/User Profile.svg";
 
 const AccountButton = () => {
   return (

@@ -1,7 +1,7 @@
 import { Box, Flex, Text, Button } from "@chakra-ui/react";
-import MyButton from "../../../Custom/NftButton";
+import MyButton from "../../Custom/NftButton";
 import Rectangle4 from "../../../public/Icons/Rectangle 4.svg";
-import AccountButton from "../../../components/Account";
+import AccountButton from "../../components/Account";
 import { Link } from "@chakra-ui/react";
 
 const Header = () => {
